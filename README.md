@@ -47,7 +47,7 @@ A landing page conta com uma área administrativa que permite:
 
 Para acessar a área administrativa:
 1. Clique no link "Área Administrativa" abaixo do formulário de depoimentos
-2. Cadastre-se como administrador usando o código de acesso: `barao123`
+2. Cadastre-se como administrador usando o código de acesso liberado pelo admistrador da pagina.
 3. Faça login com suas credenciais
 4. Gerencie os depoimentos através do painel administrativo
 
